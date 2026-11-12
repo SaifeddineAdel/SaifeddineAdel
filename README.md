@@ -153,15 +153,7 @@ Continuously expanding my knowledge in software engineering, with a particular f
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaifeddineAdel&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaifeddineAdel&layout=compact&theme=github_dark&hide_border=true" alt="Most Used Languages" />
-</p>
+## 📊 GitHub Activity
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=SaifeddineAdel&theme=github-dark-blue&hide_border=true" alt="GitHub Contribution Streak" />
@@ -172,7 +164,7 @@ Continuously expanding my knowledge in software engineering, with a particular f
 ## 🤝 Connect With Me
 
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="16" /> **LinkedIn:** [Saif Elden Adel](https://www.linkedin.com/in/saif-elden-adel-272b1935b/)
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gmail/gmail-original.svg" width="16" /> **Email:** [saifeddineadelabdallahmostafa@gmail.com](mailto:saifeddineadelabdallahmostafa@gmail.com)
+- 📧 **Email:** [saifeddineadelabdallahmostafa@gmail.com](mailto:saifeddineadelabdallahmostafa@gmail.com)
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="16" /> **GitHub:** [SaifeddineAdel](https://github.com/SaifeddineAdel)
 - 📱 **Phone:** [+20 155 390 2164](tel:+201553902164)
 
